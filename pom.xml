@@ -19,15 +19,12 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <parent>
-        <groupId>org.apache.aries.jax.rs</groupId>
-        <artifactId>org.apache.aries.jax.rs</artifactId>
-        <version>0.0.1-SNAPSHOT</version>
-    </parent>
-
     <artifactId>com.liferay.apio.architect.environment</artifactId>
-    <description>Liferay Apio Architect Executable Environment</description>
+    <groupId>com.liferay</groupId>
+    <version>0.0.1-SNAPSHOT</version>
+
     <name>Liferay Apio Architect Executable Environment</name>
+    <description>Liferay Apio Architect Executable Environment</description>
 
     <build>
         <plugins>
